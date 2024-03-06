@@ -1,0 +1,42 @@
+* {
+    background-color: rgb(0, 187, 255);
+    font-size: 30px;
+ }
+ 
+  /*heading selector*/
+ h1 {
+    font-size: 50px;
+    color: yellow;
+    font-weight: 100;
+    font-style: italic;
+
+ }
+
+  #interests {
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 700;
+ }
+
+  /*class tag*/
+ .spann {
+    font-size: 30px;
+    color: aliceblue;
+    font-family: monospace;
+    font-weight: 700;
+ }
+
+  .table {
+    width: auto;
+    border-radius: 5cm
+ }
+
+
+ 
+ #skills {
+    font-size: 30px;
+    font-weight: 800;
+    color: black;
+    font-style: italic;
+ }
+
